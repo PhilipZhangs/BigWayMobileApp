@@ -11,7 +11,7 @@ import SwiftUI
 struct BigWayMobileAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
